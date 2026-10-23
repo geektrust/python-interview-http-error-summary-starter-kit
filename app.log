@@ -1,0 +1,14 @@
+2026-01-15T10:23:45Z POST /api/checkout 500 1240ms
+2026-01-15T10:23:47Z GET /api/products 200 85ms
+2026-01-15T10:23:51Z POST /api/checkout 503 2100ms
+2026-01-15T10:24:02Z POST /api/payment 500 890ms
+2026-01-15T10:24:10Z GET /api/orders 502 300ms
+2026-01-15T10:24:15Z GET /api/orders 500 500ms
+this is not a valid line
+2026-01-15T10:24:30Z POST /api/payment 504 1010ms
+2026-01-15T10:24:41Z POST /api/checkout 500 1100ms
+2026-01-15T10:24:50Z GET /api/users 404 40ms
+2026-01-15T10:25:00Z GET /api/cart 500 200ms
+2026-01-15T10:25:05Z GET /api/search 503 700ms
+2026-01-15T10:25:09Z GET /api/inventory 500 400ms
+2026-01-15T10:25:12Z GET /api/refunds 500 abc

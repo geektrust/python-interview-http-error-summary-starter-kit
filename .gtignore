@@ -1,0 +1,7 @@
+.vscode/
+.gitignore
+.gtignore
+README.md
+LICENSE
+run.sh
+run_unittests.sh
