@@ -15,9 +15,6 @@
     ".gtignore": true,
     "__pycache__": true,
     ".pytest_cache": true,
-    "run.sh": true,
-    "run_unittests.sh": true,
-    "LICENSE": true,
-    "README.md": true
+    "LICENSE": true
   }
 }
